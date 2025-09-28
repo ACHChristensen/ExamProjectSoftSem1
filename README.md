@@ -21,9 +21,8 @@ Categories:
 - New/Used
 - Price range
 - Style (Scandinavian, Modern, Rustic, etc.)
-- Sustainable/eco materials
 
-3. Inspiration Boards (Pinterest-style)
+3. Inspiration Boards
 - Browse boards (curated by users & platform editors)
 - Save / Pin furniture or designs
 - Recommendations (“Because you liked Scandinavian Bedroom…”)
@@ -39,13 +38,13 @@ Categories:
 5. Furniture Stores
 - Store directory (local + online)
 
-Store profiles with:
-- About section
-- Featured products
-- Store inspiration boards
-- Promotions/discounts
+- Store profiles with:
+--- About section
+--- Featured products
+--- Store inspiration boards
+--- Promotions/discounts
 
-Products - “Find Near Me” option (map integration)
+- Products - “Find Near Me” option (map integration)
 
 6. User Dashboard
 
